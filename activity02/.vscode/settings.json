@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\nimbl\\Downloads\\gson-2.8.8.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\nimbl\\Downloads\\json-20210307.jar"
+        ]
+    }
+}

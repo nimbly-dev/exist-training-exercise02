@@ -1,0 +1,14 @@
+1. AddNewRow = Choose where to AddNewRow
+2. Sort = Option for descending or ascending
+3. Provide where file to save
+4. Remove GSON library 
+5. Delimeter for new line/row
+
+
+COMMAND TO RUN: & 'c:\Users\nimbl\.vscode\extensions\vscjava.vscode-java-debug-0.35.0\scripts\launcher.bat' 'C:\Program Files\Java\jdk-16.0.2\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-Dfile.encoding=UTF-8' '@C:\Users\nimbl\AppData\Local\Temp\cp_58fkeny4hv8itqhri2u7y7p5h.argfile' 'src.com.exist.exercise02.App'
+
+CURRENT PATH WITH EXISTING: C:\Users\nimbl\Desktop\java-ws\java-review-repo\activity02\filename.txt
+SAVE FILE PATH: C:\Users\nimbl\Desktop\java-ws\java-review-repo\activity02\saved.txt
+
+
+
